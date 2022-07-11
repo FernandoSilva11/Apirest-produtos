@@ -8,6 +8,7 @@ Fiz o deploy da aplicação no heroku, e você pode acessar por esse link: [API 
 Tecnologias utilizadas:
 
 Java - Springbooot
+
 Banco de dados - PostgreSQL
 
 O projeto foi, em grande parte, baseado nesse pequeno curso onde a Michelli Brito ensina a criar a sua prórpia api: 
